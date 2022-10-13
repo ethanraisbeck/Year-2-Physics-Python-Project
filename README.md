@@ -1,6 +1,6 @@
 # Year-2-Physics-Python-Project
 
-Year 2 university physics project to determine the composition and grain size of an alloy
+Year 2 university physics project to determine the composition, lattice parameter and grain size of an alloy
 
 Features SciPy curve fit to model background data and corresponding diffraction peaks 
 
